@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Soyokaze",
+  "base_artist": "imase",
+  "createdAt": "2026-03-11T07:54:43.837847Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soyokaze",
+      "artist": "SHISE",
+      "has_synced": true,
+      "path": "select/01_Soyokaze_SHISE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soyokaze wa Peppermint",
+      "artist": "Yukiko Okada",
+      "has_synced": true,
+      "path": "select/02_Soyokaze_wa_Peppermint_Yukiko_Okada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soyokaze no Uta (Song of the Breeze)",
+      "artist": "Yuuko Ishibashi",
+      "has_synced": true,
+      "path": "select/03_Soyokaze_no_Uta_(Song_of_the_Breeze)_Yuuko_Ishibashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soyokaze ga Sougen wo Naderu Youni",
+      "artist": "Kokia",
+      "has_synced": false,
+      "path": "select/04_Soyokaze_ga_Sougen_wo_Naderu_Youni_Kokia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soyokaze",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/05_Soyokaze_imase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SEXY BOY ~Soyokaze ni Yorisotte",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/06_SEXY_BOY_~Soyokaze_ni_Yorisotte_モーニング娘。.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SEXY BOY ~Soyokaze ni Yorisotte~",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/07_SEXY_BOY_~Soyokaze_ni_Yorisotte~_モーニング娘。.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soyokaze",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_Soyokaze_imase.txt"
+    }
+  ]
+}
